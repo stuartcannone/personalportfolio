@@ -115,7 +115,7 @@ const CustomLink = ({ href, title, className = "" }) => {
           <motion.a
             target={"_blank"}
             className="w-6 mx-3"
-            href="www.linkedin.com/in/stuartcannone"
+            href="https://linkedin.com/in/stuartcannone"
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
             aria-label="Checkout my linkedin profile"
@@ -182,7 +182,7 @@ const CustomLink = ({ href, title, className = "" }) => {
           <motion.a
             target={"_blank"}
             className="w-6 m-1 mx-3 sm:mx-1"
-            href="www.linkedin.com/in/stuartcannone"
+            href="https://linkedin.com/in/stuartcannone"
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
             aria-label="Checkout my linkedin profile"
