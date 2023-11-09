@@ -8,7 +8,7 @@ import Link from "next/link";
 import proj1 from "../../public/images/projects/PocketCart.png";
 import proj2 from "../../public/images/projects/PocketPalette.png";
 import proj3 from "../../public/images/projects/Sales.png";
-import proj4 from "../../public/images/projects/portfolio-cover-image.jpg";
+import proj4 from "../../public/images/projects/Portfolio.png";
 import TransitionEffect from "@/components/TransitionEffect";
 
 const FramerImage = motion(Image);
@@ -213,8 +213,8 @@ export default function Projects() {
                 title="React Portfolio Website"
                 summary="A professional portfolio website using React JS, Framer-motion, and Styled-components. It has smooth page transitions, cool background effects, unique design and it is mobile responsive."
                 img={proj4}
-                link="https://devdreaming.com/videos/build-stunning-portfolio-website-react-js-framer-motion"
-                github="https://github.com/codebucks27/react-portfolio-final"
+                link="https://stuartcannone.github.io/personalportfolio/"
+                github="https://github.com/stuartcannone/personalportfolio"
               />
             </div>
           </div>
