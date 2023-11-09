@@ -161,7 +161,7 @@ const CustomLink = ({ href, title, className = "" }) => {
         >
           <motion.a
             target={"_blank"}
-            className="w-6 m-1 mr-3 sm:mx-1"
+            className="w-6 m-1 mr-3 sm:mx-1  bg-light rounded-full dark:bg-dark"
             href="#"
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
