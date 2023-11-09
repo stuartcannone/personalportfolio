@@ -185,8 +185,8 @@ export default function Projects() {
                 title="Pocket Cart Online Pet Store"
                 summary="A feature-rich online store using React, Tailwind CSS, Ruby on Rails, React Router and Stripe. It is a fully functional store with cart and checkout with custom built front and back end."
                 img={proj1}
-                link="https://github.com/Griffy92/online-shop-client"
-                github="https://github.com/Griffy92/online-shop-client"
+                link="https://github.com/stuartcannone/online-shop-client"
+                github="https://github.com/stuartcannone/online-shop-server"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
@@ -195,7 +195,7 @@ export default function Projects() {
                 title="Pocket Palette Design and Draw Tool"
                 img={proj2}
                 link="https://pocket-palette.netlify.app/"
-                github="https://github.com/Griffy92/Pocket-Palette"
+                github="https://github.com/stuartcannone/project-02"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
